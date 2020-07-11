@@ -1,2 +1,2 @@
-# Hello-world
+#BeKind
 All new for you
